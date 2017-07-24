@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="measurements-viewer"
+>
+  <div
+    className="measurements-viewer-header"
+  >
+    <div
+      className="box button"
+      onClick={[Function]}
+    >
+      Turn 
+      On
+    </div>
+    <div
+      className="box header"
+    >
+      Measurements
+    </div>
+    <div
+      className="box button"
+    >
+      Offline
+    </div>
+  </div>
+  <div
+    className="measurements-viewer-content"
+  >
+    <div
+      className="box header"
+    >
+      Name
+    </div>
+    <div
+      className="box header"
+    >
+      Unit
+    </div>
+    <div
+      className="box header"
+    >
+      Time
+    </div>
+    <div
+      className="box header"
+    >
+      Value
+    </div>
+    <div
+      className="box info"
+    >
+      No measurements to show
+    </div>
+  </div>
+</div>
+`;
